@@ -1,4 +1,4 @@
-gpudev.github.io: A Collection of Tools realted to GPU-Development
-==================================================================
+GPU-Dev: A Collection of Tools&Repos related to GPU-Development
+===============================================================
 
 (content still private during testing)
